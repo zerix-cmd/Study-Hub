@@ -1,70 +1,62 @@
-<div align="center">
+# StudyHub
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:0B1020,45:5B5FEF,100:A855F7&text=StudyHub&fontSize=44&fontAlignY=40&fontColor=ffffff&desc=Smart%20Learning%20Platform%20for%20University%20Students&descAlignY=66&animation=fadeIn" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=2500&pause=800&color=8D6BFF&center=true&vCenter=true&width=900&lines=Smart+Learning+Platform;Notes+%2B+PYQs+%2B+AI+Support;Built+for+University+Students" alt="Typing animation" />
+</p>
 
-<br>
+<p align="center">
+  <a href="https://studyhub-onlive.vercel.app">
+    <img src="https://img.shields.io/badge/Website-studyhub--onlive.vercel.app-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+  </a>
+</p>
 
-### 📚 Notes • PYQs • AI Support • Premium Academic Experience
+StudyHub is a smart learning platform built for university students to access academic resources in one place.
 
-<br>
+It helps students stay organized and prepare better for exams by bringing together notes, previous year question papers, AI-assisted learning support, and a clean academic interface.
 
-<a href="https://github.com/zerix-cmd/Study-Hub">
-  <img src="https://img.shields.io/badge/GitHub-Study--Hub-2F2F2F?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://studyhub-onlive.vercel.app">
-  <img src="https://img.shields.io/badge/Website-Live-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/dp_.i1ot">
-  <img src="https://img.shields.io/badge/Instagram-dp_.i1ot-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+## Features
 
-<br><br>
+- Student login and authentication
+- Course-wise study notes
+- Previous year question papers
+- Personal dashboard
+- Profile management
+- Dark mode support
+- Cloud-based data storage
+- Search and filtering
+- Organized subject, semester, and module flow
+- AI-supported learning experience
 
-<img src="https://img.shields.io/badge/NOTES-Structured-5458F7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PYQs-Exam%20Ready-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI-Learning%20Support-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CLOUD-Secure-0F766E?style=for-the-badge"/>
+## Technology Stack
 
-<br><br>
+- Frontend: Flutter
+- Backend: Supabase
+- Database: PostgreSQL
+- UI: Material Design
+- Development: AI-assisted tools
 
-<img src="https://img.shields.io/badge/Platform-Mobile%20App-303030?style=flat-square"/>
-<img src="https://img.shields.io/badge/Backend-Supabase-303030?style=flat-square&logo=supabase&logoColor=3ECF8E"/>
-<img src="https://img.shields.io/badge/Database-PostgreSQL-303030?style=flat-square&logo=postgresql&logoColor=336791"/>
-<img src="https://img.shields.io/badge/UI-Premium%20Dark-303030?style=flat-square"/>
+## Vision
 
-</div>
+StudyHub aims to create a centralized academic platform where students can easily access learning resources, stay organized, and prepare effectively for university exams.
+
+## Website
+
+App download website:  
+https://studyhub-onlive.vercel.app
+
+## Developer
+
+Mohammed Thanseeh
+
+## Connect
+
+- Instagram: https://www.instagram.com/dp_.i1ot
+- WhatsApp: https://wa.link/mjb3yx
 
 ---
 
-# 👋 About StudyHub
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=2200&pause=700&color=66A6FF&center=true&vCenter=true&width=700&lines=Study+Smarter;Stay+Organized;Prepare+Better" alt="Footer animation" />
+</p>
 
-<div align="center">
-
-### A cleaner, smarter way to study.
-
-</div>
-
-StudyHub is a centralized academic platform designed to make university learning resources easier to access, manage, and use.
-
-Instead of depending on scattered files and unorganized materials, StudyHub brings everything into one system so students can quickly move from **searching** to **studying**.
-
-It is built around simplicity, structure, and speed.
-
----
-
-# 🧾 Project Snapshot
-
-```yaml
-project_name: StudyHub
-type: Academic Resource Platform
-platform: Mobile Application
-category: Education / Productivity
-purpose: Centralized learning system for students
-current_focus:
-  - Notes Management
-  - Previous Year Question Papers
-  - Academic Search
-  - AI-Assisted Learning
-  - Premium Student UI
-status: Active Development
-website: studyhub-onlive.vercel.app
+If you like this project, consider giving it a star on GitHub.
