@@ -1,71 +1,67 @@
-<h1 align="center">🚀 StudyHub 📚</h1>
-<h3 align="center">⚡ Smart Learning Platform for University Students</h3>
+<h1 align="center">🚀 StudyHub</h1>
+<h3 align="center">AI-Powered Academic Platform</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2600&color=8D6BFF&center=true&vCenter=true&width=900&lines=Access+Notes+%2B+PYQs+Seamlessly;Organize+Your+Study+Flow;Prepare+Smarter+for+Exams;Modern+Academic+Platform" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2400&color=8D6BFF&center=true&vCenter=true&width=900&lines=Study+Smarter+with+AI;Notes+%2B+PYQs+in+One+Place;Minimal+%7C+Fast+%7C+Powerful;Built+for+Students" />
 </p>
 
 ---
 
-<!-- HERO VISUAL (CLEAN TECH ANIMATION) -->
+<!-- HERO VISUAL -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="70%" />
+  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1400&q=80" width="85%" />
 </p>
 
 <p align="center">
-  <i>Minimal • Focused • Built for Productivity</i>
+  <i>Designed for focus. Built for performance.</i>
 </p>
 
 ---
 
+<!-- CTA -->
 <p align="center">
   <a href="https://studyhub-onlive.vercel.app">
-    <img src="https://img.shields.io/badge/🌐 Open Website-8D6BFF?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/🌐 Experience StudyHub-8D6BFF?style=for-the-badge"/>
   </a>
 </p>
 
 ---
 
-## 🌌 About StudyHub
+## 🌌 The Idea
 
 <p align="center">
   <b>
-  StudyHub is a modern mobile platform designed to bring  
-  notes, previous year question papers (PYQs), and academic tools  
-  into one clean and organized experience.
+  StudyHub brings everything a student needs into one place —  
+  notes, PYQs, and structured academic resources —  
+  delivered through a clean and distraction-free interface.
   </b>
 </p>
 
 ---
 
-## ✨ Features
+## ✨ Core Experience
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🔐 Authentication-Secure Login-8D6BFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📚 Notes-Course Wise-66A6FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📚 Notes-Organized Learning-8D6BFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📄 PYQs-Exam Preparation-66A6FF?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📄 PYQs-Previous Papers-8D6BFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🧠 Dashboard-Smart Access-66A6FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🧠 Dashboard-Central Access-8D6BFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/☁️ Cloud-Secure Storage-66A6FF?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/👤 Profile-Management-8D6BFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🌙 Dark Mode-Supported-66A6FF?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/☁️ Cloud Storage-Supabase-8D6BFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🌙 Dark Mode-Smooth UI-8D6BFF?style=for-the-badge"/>
 </p>
 
 ---
 
-## ⚡ How It Works
+## ⚡ Flow
 
 ```mermaid
 flowchart TD
 A[Login] --> B[Dashboard]
-B --> C[Select Subject]
-C --> D[Open Notes / PYQ]
+B --> C[Choose Subject]
+C --> D[Access Notes / PYQs]
 D --> E[Study Efficiently]
