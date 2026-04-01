@@ -1,44 +1,76 @@
-<h1 align="center" style="font-size:40px;">🚀 StudyHub</h1>
-<h3 align="center">⚡ Smart Learning Platform with AI</h3>
+<h1 align="center">🚀 StudyHub</h1>
+<h3 align="center">⚡ AI Powered Smart Learning Platform</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=8D6BFF&center=true&vCenter=true&width=800&lines=Study+Smarter+with+AI;Notes+%2B+PYQs+%2B+AI;All-in-One+Student+Platform;Premium+UI+Experience" />
-</p>
-
-<br/>
-
-<!-- HERO SECTION -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Platform-StudyHub-8D6BFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI-Enabled-66A6FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/UI-Premium-8D6BFF?style=for-the-badge"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=8D6BFF&center=true&vCenter=true&width=900&lines=Study+Smarter+with+AI;Notes+%2B+PYQs+%2B+AI;All-in-One+Student+Ecosystem;Premium+UI+Experience" />
 </p>
 
 ---
 
-<h2 align="center">🌌 Features</h2>
-
-<br/>
-
-<!-- FEATURES GRID -->
+<!-- HERO CTA -->
 <p align="center">
-  <img src="https://img.shields.io/badge/📚 Notes Upload-View-8D6BFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📄 PYQs Access-Previous Papers-66A6FF?style=for-the-badge"/>
+  <a href="https://studyhub-onlive.vercel.app">
+    <img src="https://img.shields.io/badge/🌐 Live Website-Visit Now-8D6BFF?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/zerix-cmd/Study-Hub/releases/tag/v1.0.0">
+    <img src="https://img.shields.io/badge/📱 Download APK-Install App-66A6FF?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+<!-- PREMIUM HERO VISUAL -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="80%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🤖 AI Summaries-Key Points-8D6BFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🧠 AI MCQs-Exam Questions-66A6FF?style=for-the-badge"/>
+  <i>Minimal • Fast • AI Powered</i>
+</p>
+
+---
+
+<h2 align="center">✨ Core Features</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📚 Notes Upload & View-8D6BFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📄 PYQs Access-66A6FF?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📥 PDF Viewer-Download-8D6BFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/⚡ Dashboard-Fast UI-66A6FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🤖 AI Summaries-8D6BFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🧠 AI MCQs Generator-66A6FF?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🌙 Dark Mode-Light Mode-8D6BFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🛠 Admin Control-Content Manage-66A6FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📥 PDF Viewer + Download-8D6BFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/⚡ Smart Dashboard-66A6FF?style=for-the-badge"/>
+</p>
+
+---
+
+<h2 align="center">🧠 AI Engine</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2000&color=66A6FF&center=true&vCenter=true&width=700&lines=Summaries;Key+Points;Exam+Questions;MCQs+from+Notes" />
+</p>
+
+<p align="center">
+  <b>Turn any note into an intelligent study experience.</b>
+</p>
+
+---
+
+<h2 align="center">📱 Experience</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250"/>
+</p>
+
+<p align="center">
+  <i>Smooth • Clean • Premium UI</i>
 </p>
 
 ---
@@ -47,11 +79,14 @@
 
 ```mermaid
 flowchart TD
-A[Open App] --> B[Dashboard]
-B --> C[Select Notes / PYQ]
+A[Open StudyHub] --> B[Dashboard]
+B --> C[Browse Notes / PYQ]
 C --> D[Open PDF]
 D --> E[Ask AI]
-E --> F[Get Summary / MCQs]
+E --> F[Smart Output]
+
+
+
 
 # Study Hub 📚
 
